@@ -1,5 +1,5 @@
-function add(a,b){
-    return a+b;
+function sub(a,b){
+    return a-b;
 }
-let sum = add(10,5);
-console.log(sum)
+let result = sub(10,5);
+console.log(result)
