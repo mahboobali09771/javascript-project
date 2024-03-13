@@ -1,5 +1,5 @@
-function add(a,b){
+function divide(a,b){
     return a+b;
 }
-let sum = add(10,5);
-console.log(sum)
+let result= divide(10,5);
+console.log(result)
